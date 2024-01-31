@@ -1,11 +1,12 @@
 {
 	"geode": "2.0.0",
-	"gd": "2.204",
+	"gd": "*",
 	"version": "v1.0.0",
 	"id": "shadyiscool.shadypause",
 	"name": "ShadyPause",
 	"developer": "ShadyIsCool",
 	"description": "Lets you toggle the pause menu.",
+	"repository": "https://github.com/ShadyIsCool/ShadyPause",
 	"settings":  
 	{
 		"toggle-enabled": 
