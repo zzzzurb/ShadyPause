@@ -1,6 +1,6 @@
 {
 	"geode": "2.0.0",
-	"gd": "*",
+	"gd": "2.204",
 	"version": "v1.0.0",
 	"id": "shadyiscool.shadypause",
 	"name": "ShadyPause",
